@@ -1,0 +1,29 @@
+{
+    "AI_shooter_manager": {
+        "checkpoints": [
+            {
+                "steps": 100002,
+                "file_path": "results\\Ai_shooter_manager\\AI_shooter_manager\\AI_shooter_manager-100002.onnx",
+                "reward": 0.5,
+                "creation_time": 1686234854.6744757,
+                "auxillary_file_paths": [
+                    "results\\Ai_shooter_manager\\AI_shooter_manager\\AI_shooter_manager-100002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100002,
+            "file_path": "results\\Ai_shooter_manager\\AI_shooter_manager.onnx",
+            "reward": 0.5,
+            "creation_time": 1686234854.6744757,
+            "auxillary_file_paths": [
+                "results\\Ai_shooter_manager\\AI_shooter_manager\\AI_shooter_manager-100002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
